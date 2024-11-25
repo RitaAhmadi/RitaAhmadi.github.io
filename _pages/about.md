@@ -1,12 +1,12 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /about/
 subtitle: <a href='https://profiles.imperial.ac.uk/f.ahmadi'>Imperial College London</a>
 
 profile:
   align: right
-  image: me.jpeg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Office 707, Weeks Building</p>
