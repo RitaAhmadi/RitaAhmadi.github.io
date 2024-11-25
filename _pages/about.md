@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: page
 title: about
-permalink: 
+permalink: /about/
 subtitle: <a href='https://profiles.imperial.ac.uk/f.ahmadi'>Imperial College London</a>
 
 profile:
