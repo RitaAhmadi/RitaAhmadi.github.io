@@ -240,7 +240,6 @@ exclude:
   - _pages/profiles.md
   - _pages/repositories.md
   - _pages/projects.md
-  - _pages/seminars.md
   - purgecss.config.js
   - README.md
   - readme_preview/
