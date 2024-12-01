@@ -1,3 +1,13 @@
+---
+layout: page
+permalink: /seminars/
+title: Imperial Seminars
+description: 
+nav: true
+nav_order: 6
+---
+
+
 # Imperial Seminars 2024-2025
 If you would like to attend, please send me an email to add you to the mailing list. 
 
