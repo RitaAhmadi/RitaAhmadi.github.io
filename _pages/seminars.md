@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 
-# Imperial Seminars 2024-2025
+## Fall and Winter 2024-2025
 If you would like to attend, please send me an email to add you to the mailing list. 
 
 1. Two Tutorials on Tensor Networks on the 12th and 13th of December by <b>Thorsten Wahl</b>. 
