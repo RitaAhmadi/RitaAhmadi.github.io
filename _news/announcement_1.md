@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-16 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am attending Categorical Logic and Higher Categories in Machenster. Hope to see many old friends and find new ones there. 
